@@ -19,6 +19,8 @@ The power supply voltage of the module and therefore of the sensor is from 2.7V 
 
 Another solder bridge determines whether the pull-up resistors will be connected to the I2C bus or not. By default, the resistors are connected. If you want to remove them, just cut the path between the solder bridges. 
 
+## You can buy this module on https://www.laskakit.cz/laskakit-tsl2561-snimac-intenzity-osvetleni/
+
 Supported libraries in Arduino IDE are</br>
 https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library</br>
 https://github.com/adafruit/TSL2561-Arduino-Library</br>

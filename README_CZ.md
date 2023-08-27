@@ -18,6 +18,8 @@ Napájecí napětí modulu a tedy i čidla je od 2.7V až do 3.6V. Adresa čidla
 
 Další pájecí můstek určuje, zda budou pull-up rezistory připojeny ke sběrnici I2C, nebo ne. Ve výchozím nastavení jsou rezistory připojeny. Pokud je chcete odstranit, stačí přerušit cestu mezi pájecími můstky. 
 
+## Tento modul si můžeš objednat na https://www.laskakit.cz/laskakit-tsl2561-snimac-intenzity-osvetleni/
+
 Podporované knihovny v Arduino IDE jsou</br>
 https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library</br>
 https://github.com/adafruit/TSL2561-Arduino-Library</br>
